@@ -36,3 +36,16 @@ International: 13526006900
 Country: US   
 
 I tried everything I could to find out why these links don't provide any usefull info but I couldn't resolve it.
+
+for a GUI version type the following phoneinfoga serve -p after the -p the port number you can and the default port for this would port 5000 and I'll use port 8080 for this exmaple
+
+phoneinfoga serve -p 8080
+
+then you go to your browser and type https://localhost:port number
+
+substitude the localhost part with your local host ip, it might be 127.0.0.1 and the port number part will be the port number you chose.
+example
+
+https://127.0.0.1:8080
+
+and that would show you the HUI version of the results you get from the command line
