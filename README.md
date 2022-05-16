@@ -41,11 +41,12 @@ for a GUI version type the following phoneinfoga serve -p after the -p the port 
 
 phoneinfoga serve -p 8080
 
-then you go to your browser and type https://localhost:port number
+then you go to your browser and type localhost:port number
 
 substitude the localhost part with your local host ip, it might be 127.0.0.1 and the port number part will be the port number you chose.
+
 example
 
-https://127.0.0.1:8080
+127.0.0.1:8080
 
-and that would show you the HUI version of the results you get from the command line
+and that would show you the GUI version of the results you get from the command line
